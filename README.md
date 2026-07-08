@@ -7,9 +7,9 @@ This project is an interactive **Power BI Dashboard** built using the Blinkit Gr
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here after uploading it.
 
-![Dashboard Preview](dashboard.png)
+
+![Dashboard Preview](Deshboard.png)
 
 ---
 
@@ -113,7 +113,7 @@ Blinkit_sales_data_analysis/
 
 🔗 GitHub: https://github.com/Dynamict01
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+💼 LinkedIn: https://www.linkedin.com/in/mohit-mehta-726179307/
 
 ---
 
